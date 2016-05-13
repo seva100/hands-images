@@ -2,8 +2,8 @@
 
 This project is concentrated around hands photographs or scans with black background (see *data/* folder). Completed as part of Image processing and analysis course, CMC Lomonosov MSU. Python 2.7 and OpenCV, Scikit-image libraries were used for image analysis.
 
-[data/im001.tif]
-[data/key_points_line.png]
+![Sample photo](data/training/im001.tif)
+![Key points line, connecting fingertips and valleys](data/key_points_line.png)
 
 The project contains:
 * input data (hands scans), 
