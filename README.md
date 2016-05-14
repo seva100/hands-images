@@ -12,4 +12,4 @@ The project contains:
 * **scripts/Report - IPython Notebook** - experiments report with pictures and tables (IPython Notebook, in Russian)
 * **scripts/Report - HTML** - experiments report with pictures and tables (HTML, in Russian)
 
-In scripts/hands_handle.py you can find fingertips and valleys extraction procedure, features extraction procedure. In reports files you can find explanations and step-by-step images in Russian.
+In scripts/hands_handle.py you can find fingertips and valleys extraction procedure, features extraction procedure. In reports files you can find explanations in Russian and step-by-step images.
